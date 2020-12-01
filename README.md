@@ -15,4 +15,4 @@
 - [Computer Networking]() <!-- Google IT support course -->
 - [OOPS Numeric](https://github.com/ankita1618/Papers-/blob/main/OOPS/Part%20C%2B%2B%201234.pdf) <!-- numeric@27 -->
 - [OOPS](https://github.com/ankita1618/Papers-/blob/main/OOPS/OOPS_C%2B%2B_%20Prabhakar%20Sir.pdf)
-- [DBMS] 
+- [DBMS]()
