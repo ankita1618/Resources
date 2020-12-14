@@ -6,7 +6,7 @@
 - [Organizational Behaviour]()
 - [Managerial Economics](https://github.com/ankita1618/Papers-/tree/main/Managerial%20Economics)
 - [Business and Legal Environment]()
-- [Financial Reporting and Management Analysis]()
+- [Financial Reporting and Management Analysis](https://github.com/ankita1618/Papers-/tree/main/FRMA)
 <!--Internet Technology and Business(ITB) and Business Statistics(BS) -->
 
 
