@@ -3,11 +3,11 @@
 ## MBA 1st Semester
 - [First White Paper](https://github.com/ankita1618/Papers-/blob/main/White%20Paper%20-%20For%20Old%20Times'%20Sake.pdf)
 - [Business Communication](https://drive.google.com/drive/folders/1EgrLv4Rf3zTphJc0BbsAYB9-OSCVObdj?usp=sharing)
-- [Organizational Behaviour]()
+- [Organizational Behaviour](https://github.com/ankita1618/Papers-/tree/main/Organizational%20Behaviour)
 - [Managerial Economics](https://github.com/ankita1618/Papers-/tree/main/Managerial%20Economics)
-- [Business and Legal Environment]()
 - [Financial Reporting and Management Analysis](https://github.com/ankita1618/Papers-/tree/main/FRMA)
 <!--Internet Technology and Business(ITB) and Business Statistics(BS) -->
+<!--Business and Legal Environment-->
 
 
 ## Technical Internships
