@@ -16,3 +16,7 @@
 - [OOPS Numeric](https://github.com/ankita1618/Papers-/blob/main/OOPS/Part%20C%2B%2B%201234.pdf) <!-- numeric@27 -->
 - [OOPS](https://github.com/ankita1618/Papers-/blob/main/OOPS/OOPS_C%2B%2B_%20Prabhakar%20Sir.pdf)
 - [DBMS](https://github.com/ankita1618/Papers-/tree/main/DBMS)
+
+## Technical Interviews
+
+- [Interview Index](https://docs.google.com/document/d/1m-cGAZfyUAFyrELlkDqnawGL6_H6MRhCTo7JTk5yfG8/edit)
