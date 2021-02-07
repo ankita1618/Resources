@@ -9,6 +9,8 @@
 <!--Internet Technology and Business(ITB) and Business Statistics(BS) -->
 <!--Business and Legal Environment-->
 
+## MBA 2st Semester
+- [Financial Management](https://github.com/ankita1618/Resources/tree/main/Financial%20Management)
 
 ## Technical Internships
 - [Operating System](https://github.com/ankita1618/Papers-/tree/main/OS)
