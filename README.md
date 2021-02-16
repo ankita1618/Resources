@@ -1,4 +1,7 @@
-# Papers- <br/>
+# Papers: <br/>
+
+## Competitive Coding Resources
+- [Getting Started with the Sport of Programming](https://github.com/ankita1618/Resources/tree/main/Competitive%20Coding)
 
 ## MBA 1st Semester
 - [First White Paper](https://github.com/ankita1618/Papers-/blob/main/White%20Paper%20-%20For%20Old%20Times'%20Sake.pdf)
