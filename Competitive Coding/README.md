@@ -1,5 +1,14 @@
 ## Competitive Coding Resources
 - [Getting Started with the Sport of Programming](http://sportprogramming.blogspot.com/2014/07/getting-started-with-sport-of.html?m=1)
+- CP Algorithms - algo related topics
+- TopCoder - concept building
+- CPP Reference - c++ syntax related topics
+
+## You Tube
+- Algorithm Live
+- SecondThread
+- Errichto
+- Bo qian
 
 ## Important Topics
 - [STL](https://www.youtube.com/watch?v=Vc1RyqWFbiA&list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb)
