@@ -1,14 +1,14 @@
 ## Competitive Coding Resources
 - [Getting Started with the Sport of Programming](http://sportprogramming.blogspot.com/2014/07/getting-started-with-sport-of.html?m=1)
-- CP Algorithms - algo related topics
+- [CP Algorithms - algo related topics](https://cp-algorithms.com/)
 - TopCoder - concept building
-- CPP Reference - c++ syntax related topics
+- [CPP Reference - c++ syntax related topics](https://en.cppreference.com/w/)
 
 ## You Tube
-- Algorithm Live
-- SecondThread
-- Errichto
-- Bo qian
+- [Algorithm Live](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)
+- [SecondThread](https://www.youtube.com/channel/UCXbCohpE9IoVQUD2Ifg1d1g)
+- [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
+- [Bo qian](https://www.youtube.com/user/BoQianTheProgrammer)
 
 ## Important Topics
 - [STL](https://www.youtube.com/watch?v=Vc1RyqWFbiA&list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb)
