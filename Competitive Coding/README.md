@@ -12,7 +12,10 @@
 
 ## Important Topics
 - [STL](https://www.youtube.com/watch?v=Vc1RyqWFbiA&list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb)
+- PrefixSum
 - [Sieve of Eratosthenes](https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html)
+- [Prime Factorization](https://github.com/ankita1618/Resources/blob/main/Competitive%20Coding/primefactorisation.pdf)
+- [Finding the sum of the divisors of n](https://www2.math.upenn.edu/~deturck/m170/wk3/lecture/sumdiv.html)
 
 ## Test Papers
 - [Test 1](https://docs.google.com/document/d/1QppCdh1SQ1QqcnSctx9pwAH4fVEKs0skNwbC7oNfZIM/edit)
