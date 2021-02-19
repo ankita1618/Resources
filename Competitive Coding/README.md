@@ -17,7 +17,10 @@
 - [Prime Factorization](https://github.com/ankita1618/Resources/blob/main/Competitive%20Coding/primefactorisation.pdf)
 - [Finding the sum of the divisors of n](https://www2.math.upenn.edu/~deturck/m170/wk3/lecture/sumdiv.html)
 - [Euler’s totient function](https://cp-algorithms.com/algebra/phi-function.html)
+- [DP](https://www.youtube.com/watch?v=YBSt1jYwVfU&feature=youtu.be)
+
+## Daily Coding Problems
+- [Conceptual Problems](https://docs.google.com/spreadsheets/d/1YsKCgLukerkpApH0qWIifv-J7O4nQZzpXw6DBE8oEaM/edit#gid=0)
 
 ## Test Papers
 - [Test 1](https://docs.google.com/document/d/1QppCdh1SQ1QqcnSctx9pwAH4fVEKs0skNwbC7oNfZIM/edit)
-- [Test 2]()
