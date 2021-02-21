@@ -18,7 +18,7 @@
 - [Finding the sum of the divisors of n](https://www2.math.upenn.edu/~deturck/m170/wk3/lecture/sumdiv.html)
 - [Euler’s totient function](https://cp-algorithms.com/algebra/phi-function.html)
 - [DP](https://www.youtube.com/watch?v=YBSt1jYwVfU&feature=youtu.be)
-- [Fermat and Miller-Rabin Algorithm](https://github.com/ankita1618/Resources/blob/main/Competitive%20Coding/Fermat%20and%20Rabin_Miller.pdf)
+- [Fermat and Miller-Rabin Algorithm](https://github.com/ankita1618/Resources/blob/main/Competitive%20Coding/Fermat%20and%20Rabin_Miller.odg)
 
 ## Daily Coding Problems
 - [Conceptual Problems](https://docs.google.com/spreadsheets/d/1YsKCgLukerkpApH0qWIifv-J7O4nQZzpXw6DBE8oEaM/edit#gid=0)
