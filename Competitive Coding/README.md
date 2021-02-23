@@ -19,6 +19,7 @@
 - [Euler’s totient function](https://cp-algorithms.com/algebra/phi-function.html)
 - [DP](https://www.youtube.com/watch?v=YBSt1jYwVfU&feature=youtu.be)
 - [Fermat and Miller-Rabin Algorithm](https://github.com/ankita1618/Resources/blob/main/Competitive%20Coding/Fermat%20and%20Rabin_Miller.odg)
+- [Binary Search](https://www.youtube.com/watch?v=GU7DpgHINWQ)
 - [Fenwick Trees](https://www.youtube.com/watch?v=kPaJfAUwViY)
 
 ## Daily Coding Problems
