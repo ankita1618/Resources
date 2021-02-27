@@ -21,8 +21,8 @@
 - [Fermat and Miller-Rabin Algorithm](https://github.com/ankita1618/Resources/blob/main/Competitive%20Coding/Fermat%20and%20Rabin_Miller.odg)
 - [Binary Search](https://www.youtube.com/watch?v=GU7DpgHINWQ)
 - [Fenwick Trees](https://www.youtube.com/watch?v=kPaJfAUwViY) AND [BIT Notes](https://github.com/ankita1618/Resources/blob/main/Competitive%20Coding/BIT_notes.pdf)
-- [Euclidean algorithm for computing the GCD]()
-- [Extended Euclidean Algorithm]()
+- [Euclidean algorithm for computing the GCD AND Extended Euclidean Algorithm](https://github.com/ankita1618/Resources/blob/main/Competitive%20Coding/Euclid%20%26%20Ex-Euclid.pdf)
+- [Linear Diophantine Equation](https://github.com/ankita1618/Resources/blob/main/Competitive%20Coding/LDE1(1).pdf)
 
 ## Daily Coding Problems
 - [Conceptual Problems](https://docs.google.com/spreadsheets/d/1YsKCgLukerkpApH0qWIifv-J7O4nQZzpXw6DBE8oEaM/edit#gid=0)
