@@ -14,6 +14,7 @@
 
 ## MBA 2st Semester
 - [Financial Management](https://github.com/ankita1618/Resources/tree/main/Financial%20Management)
+- [Marketing Management](https://github.com/ankita1618/Resources/tree/main/Marketing%20Management)
 
 ## Technical Internships
 - [Operating System](https://github.com/ankita1618/Papers-/tree/main/OS)
