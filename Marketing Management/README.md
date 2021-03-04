@@ -1,0 +1,1 @@
+- [Book](https://cloudflare-ipfs.com/ipfs/bafykbzacebcbhbvrwodwqz2hjhc2yzl2m2f22ac5xai6wbnfnmiibrxotlue2?filename=Kevin%20Lane%20Keller%2C%20Philip%20Kotler%20-%20Marketing%20Management-Pearson%20%282015%29.pdf)
