@@ -26,7 +26,8 @@
 - [Computations Modulo P in Competitive Programming](https://www.youtube.com/watch?v=-OPohCQqi_E)
 - [Modular Multiplicative Inverse](https://cp-algorithms.com/algebra/module-inverse.html)
 - [Segmented Sieve](https://www.youtube.com/watch?v=j0M8SF6daSs)
-- [Fibonacci Sieve](https://cp-algorithms.com/algebra/fibonacci-numbers.html)
+- [Fibonacci Series](https://cp-algorithms.com/algebra/fibonacci-numbers.html)
+- [Wilson's Theorem](http://sigurthrenterprises.blogspot.com/2015/01/wilsons-theorem-prime-numbers-c-and.html)
 
 ## Daily Coding Problems
 - [Conceptual Problems](https://docs.google.com/spreadsheets/d/1YsKCgLukerkpApH0qWIifv-J7O4nQZzpXw6DBE8oEaM/edit#gid=0)
