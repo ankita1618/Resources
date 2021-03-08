@@ -27,6 +27,7 @@
 - [Modular Multiplicative Inverse](https://cp-algorithms.com/algebra/module-inverse.html)
 - [Segmented Sieve](https://www.youtube.com/watch?v=j0M8SF6daSs)
 - [Fibonacci Series](https://cp-algorithms.com/algebra/fibonacci-numbers.html)
+- [Solving the Fibonacci Sequence with Matrix Exponentiation](https://www.youtube.com/watch?v=EEb6JP3NXBI&t=447s) AND [Code](https://ideone.com/JAI7hP)
 - [Wilson's Theorem](http://sigurthrenterprises.blogspot.com/2015/01/wilsons-theorem-prime-numbers-c-and.html)
 
 ## Daily Coding Problems
