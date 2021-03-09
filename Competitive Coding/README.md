@@ -29,6 +29,7 @@
 - [Fibonacci Series](https://cp-algorithms.com/algebra/fibonacci-numbers.html)
 - [Solving the Fibonacci Sequence with Matrix Exponentiation](https://www.youtube.com/watch?v=EEb6JP3NXBI&t=447s) AND [Code](https://ideone.com/JAI7hP)
 - [Wilson's Theorem](http://sigurthrenterprises.blogspot.com/2015/01/wilsons-theorem-prime-numbers-c-and.html)
+- [How to generate all the possible subsets of a set ?](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/tutorial/)
 
 ## Daily Coding Problems
 - [Conceptual Problems](https://docs.google.com/spreadsheets/d/1YsKCgLukerkpApH0qWIifv-J7O4nQZzpXw6DBE8oEaM/edit#gid=0)
