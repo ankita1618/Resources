@@ -30,6 +30,7 @@
 - [Solving the Fibonacci Sequence with Matrix Exponentiation](https://www.youtube.com/watch?v=EEb6JP3NXBI&t=447s) AND [Code](https://ideone.com/JAI7hP)
 - [Wilson's Theorem](http://sigurthrenterprises.blogspot.com/2015/01/wilsons-theorem-prime-numbers-c-and.html)
 - [How to generate all the possible subsets of a set ?](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/tutorial/)
+- [Chinese Remainder Theorem](https://www.youtube.com/watch?v=l9dXo5f3zDc) AND [R2](https://www.youtube.com/watch?v=EHDEvFuYPRQ) AND [R3](https://codeforces.com/blog/entry/61290)
 
 ## Daily Coding Problems
 - [Conceptual Problems](https://docs.google.com/spreadsheets/d/1YsKCgLukerkpApH0qWIifv-J7O4nQZzpXw6DBE8oEaM/edit#gid=0)
