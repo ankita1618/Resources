@@ -38,3 +38,4 @@
 
 ## Test Papers
 - [Test 1](https://docs.google.com/document/d/1QppCdh1SQ1QqcnSctx9pwAH4fVEKs0skNwbC7oNfZIM/edit)
+- [Test 2 - Number Theory](https://vjudge.net/contest/427765)
