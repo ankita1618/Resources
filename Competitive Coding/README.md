@@ -33,6 +33,8 @@
 - [Chinese Remainder Theorem](https://www.youtube.com/watch?v=H_Utja61nT4), [R2](https://www.youtube.com/watch?v=EHDEvFuYPRQ), [R3](https://codeforces.com/blog/entry/61290) and [EXTRA](https://www.youtube.com/watch?v=l9dXo5f3zDc) 
 - [Binary Search](https://codeforces.com/edu/course/2/lesson/6)
 - [Two Pointers Method](https://codeforces.com/edu/course/2/lesson/9)
+- [Depth First Search](https://www.youtube.com/watch?v=lo1P6bhsoG4&t=2s)
+- [Breadth First Search](https://www.youtube.com/watch?v=uQtX6dfbk0M)
 
 ## Daily Coding Problems
 - [Conceptual Problems](https://docs.google.com/spreadsheets/d/1YsKCgLukerkpApH0qWIifv-J7O4nQZzpXw6DBE8oEaM/edit#gid=0)
