@@ -35,7 +35,7 @@
 - [Two Pointers Method](https://codeforces.com/edu/course/2/lesson/9)
 - [Depth First Search](https://www.youtube.com/watch?v=lo1P6bhsoG4&t=2s)
 - [Breadth First Search](https://www.youtube.com/watch?v=uQtX6dfbk0M)
-- [Graphs](https://www.youtube.com/playlist?list=PLl4Y2XuUavmtTOvFcW3HfI1oQ3hsgkB3a)
+- [Graphs](https://www.youtube.com/playlist?list=PLl4Y2XuUavmtTOvFcW3HfI1oQ3hsgkB3a) V3 & V4
 
 ## Daily Coding Problems
 - [Conceptual Problems](https://docs.google.com/spreadsheets/d/1YsKCgLukerkpApH0qWIifv-J7O4nQZzpXw6DBE8oEaM/edit#gid=0)
