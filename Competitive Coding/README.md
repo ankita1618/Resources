@@ -3,6 +3,7 @@
 - [CP Algorithms - algo related topics](https://cp-algorithms.com/)
 - TopCoder - concept building
 - [CPP Reference - c++ syntax related topics](https://en.cppreference.com/w/)
+- [Guide to Competitive Programming Learning and Improving Algorithms Through Contests ](https://github.com/ankita1618/Resources/blob/main/Competitive%20Coding/Guide%20to%20Competitive%20Programming%20Learning%20and%20Improving%20Algorithms%20Through%20Contests%20(Undergraduate%20Topics%20in%20Computer%20Science)%20by%20Antti%20Laaksonen%20(z-lib.org).pdf)
 
 ## You Tube
 - [Algorithm Live](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)
